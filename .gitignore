@@ -1,0 +1,6 @@
+
+__pycache__/
+footage
+ignoreme
+*.onnx
+logs
